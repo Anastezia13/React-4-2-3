@@ -95,7 +95,7 @@ function App() {
               ))}
             </Stack>
 
-            {pages > 1 && (
+            {pages > 0 && (
               <Center style={{ marginTop: 24 }}>
                 <Pagination
                   total={pages}
