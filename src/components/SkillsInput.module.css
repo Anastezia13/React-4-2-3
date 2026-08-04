@@ -1,0 +1,15 @@
+.inputGroup {
+  margin-bottom: 8px;
+}
+
+.skillInput {
+  flex: 1;
+}
+
+.pillsGroup {
+  margin-top: 4px;
+}
+
+.pill {
+  background-color: #f0f0f0;
+}

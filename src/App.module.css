@@ -1,0 +1,47 @@
+.topRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+  flex-wrap: nowrap;
+}
+
+.titleWrapper {
+  flex: 1;
+}
+
+.titleMain {
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.titleSub {
+  font-size: 16px;
+  color: #868e96;
+  font-weight: 500;
+}
+
+.searchGroup {
+  flex: 1;
+  max-width: 50%;
+}
+
+.searchInput {
+  flex: 1;
+}
+
+.mainRow {
+  display: flex;
+  gap: 32px;
+  align-items: flex-start;
+}
+
+.leftColumn {
+  flex: 0 0 30%;
+  max-width: 30%;
+}
+
+.rightColumn {
+  flex: 1;
+}
